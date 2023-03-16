@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyresume"]=self["webpackChunkmyresume"]||[]).push([[443],{5399:function(u,e,n){n.r(e),n.d(e,{default:function(){return i}});var s=function(){var u=this;u._self._c;return u._m(0)},t=[function(){var u=this,e=u._self._c;return e("div",{staticClass:"about"},[e("h1",[u._v("This is an about page")])])}],r=n(1001),a={},l=(0,r.Z)(a,s,t,!1,null,null,null),i=l.exports}}]);
+//# sourceMappingURL=about.8a27577b.js.map
